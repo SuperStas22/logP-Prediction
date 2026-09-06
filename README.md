@@ -1,8 +1,6 @@
 Created in 2022
 
-Here is the English translation of your project description, suitable for GitHub, a portfolio, or a technical report.
-
-Project Title: Prediction of Lipophilicity (LogP) for Drug-Like Compounds Using Machine Learning
+Prediction of Lipophilicity (LogP) for Drug-Like Compounds Using Machine Learning
 
 Description:
 The octanol-water partition coefficient (LogP) is a critical parameter in drug development, influencing bioavailability, membrane permeability, and toxicity (ADME properties). The goal of this project is to develop an accurate computational (in silico) model for LogP prediction, enabling accelerated screening of potential drug candidates without the need for costly experimental procedures.
